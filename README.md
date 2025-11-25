@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Ziad Elrodi</h1>
+<h1 align="center">👋 Hi, I'm Ziad Elrawady</h1>
 
 <p align="center">
   <b>Software Engineer | Full Stack .NET Developer | Bioinformatics Graduate</b><br>
