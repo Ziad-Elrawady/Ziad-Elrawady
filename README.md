@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">👋 Hi, I'm Ziad Elrodi</h1>
 
-<!--
-**Ziad-Elrawady/Ziad-Elrawady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Software Engineer | Full Stack .NET Developer | Bioinformatics Graduate</b><br>
+  Passionate about building full-stack apps, solving problems, and learning new technologies.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🎓 Graduate in **Computing & Bioinformatics** from **Port Said University**
+- 💻 Full Stack **.NET Developer**
+- 🌱 Currently improving my **Angular**, **ASP.NET API**, and **problem-solving**
+- 🔥 Love building projects and learning new tech every day
+- 🚀 Interested in **cloud**, **system design**, and **frontend frameworks**
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nextjs,bootstrap,tailwind" />
+</p>
+
+### **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+### **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres" />
+</p>
+
+### **Tools & Others**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode,firebase" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ziadelrodi&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadelrodi&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://github.com/ziadelrodi">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
+
+---
+
+## ⭐ Fun Fact  
+I enjoy solving problems, building apps, and pushing myself to learn something new every day!
