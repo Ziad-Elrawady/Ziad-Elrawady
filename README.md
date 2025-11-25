@@ -43,21 +43,21 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ziadelrodi&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziadelrodi&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ZiadElrawady&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadElrawady&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://github.com/ziadelrodi">
+  <a href="https://github.com/ZiadElrawady">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="https://www.linkedin.com/in/">
+  <a href="www.linkedin.com/in/ziad-elrawady">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-zezoelrawady@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
