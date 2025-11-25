@@ -51,10 +51,10 @@
 
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://github.com/ZiadElrawady">
+  <a href="https://github.com/Ziad-Elrawady">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="www.linkedin.com/in/ziad-elrawady">
+  <a href="https://www.linkedin.com/in/ziad-elrawady">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:your-zezoelrawady@gmail.com">
